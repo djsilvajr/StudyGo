@@ -9,3 +9,4 @@ O projeto atual tem como objetivo mostrar sintaxe e a essencia da linguagem atra
 
 - 1 (Declaração de variáveis, atribuições e tipagens)
 - 2 (Criação de tipagem)
+- 3 PACOTES - (Pacote fmt)
