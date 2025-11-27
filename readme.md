@@ -7,6 +7,20 @@ O projeto atual tem como objetivo mostrar sintaxe e a essencia da linguagem atra
 
 ## Docs
 
-- 1 (Declaração de variáveis, atribuições e tipagens)
-- 2 (Criação de tipagem)
-- 3 PACOTES - (Pacote fmt)
+- 1 Variáveis (Declaração, atribuições e tipagens)
+- 2 Variáveis (Criação de tipagem)
+- 3 **PACOTES** (Pacote fmt)
+- 4 Controle de fluxo (if)
+- 5 Controle de fluxo (switch)
+- 6 Controle de fluxo (for)
+- 7 Funções (declaração)
+- 8 Funções (parâmetros)
+- 9 Funções (múltiplos retornos)
+- 10 Funções (closures)
+- 11 Funções (defer)
+- 12 Funções (panic/recover)
+- 13 Variáveis (Arrays)
+- 14 Variáveis (Slices)
+- 15 Variáveis (Maps)
+- 16 Structs
+- 17 Interfaces e Polimorfismo
